@@ -20,7 +20,11 @@ class App extends Component {
   componentDidMount() {
     axios.get('https://corona-bd.herokuapp.com/district')
       .then(response => {
+<<<<<<< HEAD
         console.log(response.data.data);
+=======
+        // console.log(response.data.data);
+>>>>>>> ed5348d181a1e9d4bb98a0b4250007b406bbca8d
         this.setState({ data: response.data.data })
       })
       .catch(error => {
