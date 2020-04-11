@@ -4,9 +4,7 @@ This is a webapp, that shows real time data for COVID-19 patient based on IEDCR 
 
 ## Getting Started
 
-Please clone the repository and download the chrome extension (https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf) and enable it. Otherwise the data is blocked. 
-
-Why  so? This is a localhost application. If this application was pushed online, then you won't need it.
+Please clone the repository.
 
 ### 
 
